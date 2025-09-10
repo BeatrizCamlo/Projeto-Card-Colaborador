@@ -10,7 +10,7 @@ O projeto tem como objetivo exercitar minhas habilidades em JavaScript com React
 
 ## Execução ##
 
-Dentro da pasta Projeto-Card-Colaborador, é necessário fazer a instalção dos módulos nnpm
+Dentro da pasta Projeto-Card-Colaborador, é necessário fazer a instalção dos módulos npm
 
 ```bash
 npm install
