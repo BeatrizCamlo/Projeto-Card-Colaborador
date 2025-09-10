@@ -19,7 +19,7 @@ npm install
 Para rodar remotamente
 
 ```bash
-npm run dev
+npm start
 ```
 
 
